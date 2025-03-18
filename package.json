@@ -14,7 +14,6 @@
     "react-bootstrap": "^2.10.6",
     "react-dom": "^18.3.1",
     "react-helmet": "^6.1.0",
-    "react-html-parser": "^2.0.2",
     "react-icons": "^5.3.0",
     "react-responsive": "^10.0.0",
     "react-router-dom": "^7.0.1",
@@ -22,11 +21,14 @@
     "web-vitals": "^2.1.4",
     "yup": "^1.6.1"
   },
+  "homepage": "https://robtwilliam.github.io/juliet",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -45,5 +47,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
