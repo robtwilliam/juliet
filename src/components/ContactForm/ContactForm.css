@@ -1,0 +1,32 @@
+.form-input {
+    width: 100%;
+    line-height: 1.3rem;
+    border: 1px solid black;
+}
+
+.form-comment {
+    width: 100%;
+    border: 1px solid black;
+
+}
+
+.submit-button {
+    background-color: var(--tile-background);
+    color: black;
+    border: 2px solid black;
+    padding:.2rem;
+    font-weight:bold;
+}
+
+.submit-button:hover {
+    background-color: black;
+    color: var(--tile-background);
+    border: 2px solid black;
+    padding:.2rem;
+    font-weight:bold;
+}
+
+.error-msg {
+    font-size: .75rem;
+    color: red;
+}

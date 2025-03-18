@@ -1,0 +1,8 @@
+.abtile__link, abtile__link:visited {
+    color: var(--title-color);
+    transition: color 0.4s;
+}
+
+.abtile__link:hover {
+color: var(--first-color);
+}
