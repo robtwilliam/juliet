@@ -9,7 +9,7 @@ const Contact = () => {
     return (
         <div className="home-content">
         <div className="home-main">
-            <div className="arrow-link"><Link to="/">Home</Link> {" > "} Contact</div>
+            <div className="arrow-link"><Link to="/juliet">Home</Link> {" > "} Contact</div>
             <br></br>
             <h1>Contact Us</h1>
             <br></br>

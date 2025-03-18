@@ -18,7 +18,7 @@ const Navbar = () => {
   return (
     <header className="header">
       <nav className="nav container">
-        <NavLink to="/" className="nav__logo">
+        <NavLink to="/juliet" className="nav__logo">
           <div className="nav__title">
             <img src={require('../../assets/images/logo-white.png')} alt="Juliet logo" height="50px" width="50px"/>
             <span className="nav__title__text">Juliet</span>
@@ -31,13 +31,13 @@ const Navbar = () => {
         >
           <ul className="nav__list">
             <li className="nav__item">
-              <NavLink to="/" className="nav__link" onClick={closeMenuOnMobile}>
+              <NavLink to="/juliet" className="nav__link" onClick={closeMenuOnMobile}>
                 Home
               </NavLink>
             </li>
             <li className="nav__item">
               <NavLink
-                to="/about"
+                to="/juliet/about"
                 className="nav__link"
                 onClick={closeMenuOnMobile}
               >
@@ -46,7 +46,7 @@ const Navbar = () => {
             </li>
             <li className="nav__item">
               <NavLink
-                to="/contact"
+                to="/juliet/contact"
                 className="nav__link"
                 onClick={closeMenuOnMobile}
               >
@@ -55,7 +55,7 @@ const Navbar = () => {
             </li>
             <li className="nav__item">
               <NavLink
-                to="/blog?id=8"
+                to="/juliet/blog?id=8"
                 className="nav__link nav__cta"
                 onClick={closeMenuOnMobile}
               >

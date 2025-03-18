@@ -19,11 +19,11 @@ const App = () => {
       </div>
       <main className="main-content">
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/blog" element={<Blog />} />
-          <Route path="/faq" element={<Faq />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/contact" element={<Contact />} />
+          <Route path="/juliet" element={<Home />} />
+          <Route path="/juliet/blog" element={<Blog />} />
+          <Route path="/juliet/faq" element={<Faq />} />
+          <Route path="/juliet/about" element={<About />} />
+          <Route path="/juliet/contact" element={<Contact />} />
         </Routes>
       </main>
       <br></br>
