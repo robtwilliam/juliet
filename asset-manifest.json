@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/juliet/static/css/main.879dc7bc.css",
-    "main.js": "/juliet/static/js/main.cabf04e9.js",
+    "main.js": "/juliet/static/js/main.2155098c.js",
     "static/js/453.99eb809f.chunk.js": "/juliet/static/js/453.99eb809f.chunk.js",
     "static/media/logo-vintage.png": "/juliet/static/media/logo-vintage.c21a1d6fe4e0e469f2d5.png",
     "static/media/logo-blue.png": "/juliet/static/media/logo-blue.fd7913a53549505e5216.png",
@@ -31,11 +31,11 @@
     "static/media/logo-negative-black.png": "/juliet/static/media/logo-negative-black.26aa862d429c71f5871c.png",
     "index.html": "/juliet/index.html",
     "main.879dc7bc.css.map": "/juliet/static/css/main.879dc7bc.css.map",
-    "main.cabf04e9.js.map": "/juliet/static/js/main.cabf04e9.js.map",
+    "main.2155098c.js.map": "/juliet/static/js/main.2155098c.js.map",
     "453.99eb809f.chunk.js.map": "/juliet/static/js/453.99eb809f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.879dc7bc.css",
-    "static/js/main.cabf04e9.js"
+    "static/js/main.2155098c.js"
   ]
 }
