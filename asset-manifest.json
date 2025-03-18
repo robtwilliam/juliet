@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/juliet/static/css/main.879dc7bc.css",
+    "main.js": "/juliet/static/js/main.cabf04e9.js",
+    "static/js/453.99eb809f.chunk.js": "/juliet/static/js/453.99eb809f.chunk.js",
+    "static/media/logo-vintage.png": "/juliet/static/media/logo-vintage.c21a1d6fe4e0e469f2d5.png",
+    "static/media/logo-blue.png": "/juliet/static/media/logo-blue.fd7913a53549505e5216.png",
+    "static/media/logo-green.png": "/juliet/static/media/logo-green.bd9ae9bf2144676a8cf0.png",
+    "static/media/logo-white.png": "/juliet/static/media/logo-white.fd522f3541281f205da7.png",
+    "static/media/olivia_juliet_bed.png": "/juliet/static/media/olivia_juliet_bed.89777783f38b9dbb0ad1.png",
+    "static/media/juliet_upside_down.png": "/juliet/static/media/juliet_upside_down.f591da6e43dd2be42c5a.png",
+    "static/media/about_square.png": "/juliet/static/media/about_square.2c8b3f4399e04adecbd7.png",
+    "static/media/olivia_juliet_couch.png": "/juliet/static/media/olivia_juliet_couch.2019b32e1d2e49498798.png",
+    "static/media/juliet_window_sil_2.png": "/juliet/static/media/juliet_window_sil_2.fe83e80652237b30e9e0.png",
+    "static/media/juliet_olivia_window_sil_high.png": "/juliet/static/media/juliet_olivia_window_sil_high.ee2d22a822ff765bda7d.png",
+    "static/media/juliet_olivia_couch_2.png": "/juliet/static/media/juliet_olivia_couch_2.9c67776765cab9968c92.png",
+    "static/media/juliet_window_sil.png": "/juliet/static/media/juliet_window_sil.b0e35ebdc97357afc94b.png",
+    "static/media/juliet_bedsheet_wide.png": "/juliet/static/media/juliet_bedsheet_wide.430271fbed004c66c1bd.png",
+    "static/media/olivia_juliet_chair.png": "/juliet/static/media/olivia_juliet_chair.612e5e858ae1aa116640.png",
+    "static/media/juliet_coffee.png": "/juliet/static/media/juliet_coffee.55288a37d119833ce803.png",
+    "static/media/juliet_bedsheet_square.png": "/juliet/static/media/juliet_bedsheet_square.15b6eb65dffbfe779c7f.png",
+    "static/media/juliet_olivia_cat_tower.png": "/juliet/static/media/juliet_olivia_cat_tower.b024f98ae0cb426081e8.png",
+    "static/media/juliet_olivia_bed_2.png": "/juliet/static/media/juliet_olivia_bed_2.55045de640a720d52b6e.png",
+    "static/media/ashleyjulietabout.png": "/juliet/static/media/ashleyjulietabout.7e4be46f0faebc1094e9.png",
+    "static/media/juliet_ball_bop.png": "/juliet/static/media/juliet_ball_bop.297608c227d2225a6fa6.png",
+    "static/media/juliet_gym.png": "/juliet/static/media/juliet_gym.412151f6a70d0899bb88.png",
+    "static/media/logo-negative-natural.png": "/juliet/static/media/logo-negative-natural.51f0680b2b64b841e4f0.png",
+    "static/media/petasthmaguide.png": "/juliet/static/media/petasthmaguide.e1ae03c8e30c817be77b.png",
+    "static/media/about_square.jpg": "/juliet/static/media/about_square.dd2ec138cf5dc60fde7b.jpg",
+    "static/media/logo-negative.png": "/juliet/static/media/logo-negative.cf8706a16f9684a75154.png",
+    "static/media/logo-negative-black.png": "/juliet/static/media/logo-negative-black.26aa862d429c71f5871c.png",
+    "index.html": "/juliet/index.html",
+    "main.879dc7bc.css.map": "/juliet/static/css/main.879dc7bc.css.map",
+    "main.cabf04e9.js.map": "/juliet/static/js/main.cabf04e9.js.map",
+    "453.99eb809f.chunk.js.map": "/juliet/static/js/453.99eb809f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.879dc7bc.css",
+    "static/js/main.cabf04e9.js"
+  ]
+}
