@@ -12,7 +12,7 @@ const Faq = () => {
     return (
         <div className="home-content">
         <div className="home-main">
-            <div className="arrow-link"><Link to="/juliet">Home</Link> {" > "} FAQ</div>
+            <div className="arrow-link"><Link to="/">Home</Link> {" > "} FAQ</div>
             <br></br>
             <h1>Frequently Asked Questions</h1>
             <br></br>

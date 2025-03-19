@@ -27,7 +27,7 @@ const Blog = () => {
     return (
         <div className="home-content">
         <div className="home-main">
-            <div className="arrow-link"><Link to="/juliet">Home</Link> {" > "} Article</div>
+            <div className="arrow-link"><Link to="/">Home</Link> {" > "} Article</div>
             <br></br>
             <br></br>
             <h1>{articleContent.name}</h1>

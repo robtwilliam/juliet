@@ -9,7 +9,7 @@ const About = () => {
     return (
         <div className="home-content">
         <div className="home-main">
-            <div className="arrow-link"><Link to="/juliet">Home</Link> {" > "} About</div>
+            <div className="arrow-link"><Link to="/">Home</Link> {" > "} About</div>
             <br></br>
             <h1>About Me</h1>
             <br></br>

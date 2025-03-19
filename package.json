@@ -21,7 +21,7 @@
     "web-vitals": "^2.1.4",
     "yup": "^1.6.1"
   },
-  "homepage": "https://robtwilliam.github.io/juliet",
+  "homepage": "https://www.julietcatblog.com",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
