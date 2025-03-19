@@ -2,6 +2,7 @@ import React from "react";
 import "./pages.css";
 import HomeArticleTiles from "../components/HomeArticleTiles/HomeArticleTiles";
 import AboutTile from "../components/AboutTile/AboutTile";
+import SidebarAds from "../components/SidebarAds/SidebarAds";
 
 
 const Home = () => {
@@ -12,6 +13,7 @@ const Home = () => {
       </div>
       <div className="home-side">
         <AboutTile />
+        <SidebarAds />
       </div>
     </div>
   );

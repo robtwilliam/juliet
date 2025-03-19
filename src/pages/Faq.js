@@ -4,6 +4,8 @@ import { Link } from "react-router-dom";
 import AboutTile from "../components/AboutTile/AboutTile";
 import parse from 'html-react-parser';
 import faqs from '../assets/faq.json';
+import SidebarAds from "../components/SidebarAds/SidebarAds";
+
 
 
 const Faq = () => {
@@ -20,6 +22,7 @@ const Faq = () => {
         </div>
         <div className="home-side">
               <AboutTile />
+              <SidebarAds />
         </div>
         </div>
     )

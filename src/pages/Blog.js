@@ -6,6 +6,8 @@ import { Link } from "react-router-dom";
 import AboutTile from "../components/AboutTile/AboutTile";
 import parse from 'html-react-parser';
 import { useEffect } from "react";
+import SidebarAds from "../components/SidebarAds/SidebarAds";
+
 
 const Blog = () => {
     const [searchParams] = useSearchParams()
@@ -43,6 +45,7 @@ const Blog = () => {
         </div>
         <div className="home-side">
           <AboutTile />
+          <SidebarAds />
         </div>
         </div>
     )

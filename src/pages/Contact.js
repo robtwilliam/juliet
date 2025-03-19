@@ -2,7 +2,8 @@ import React from "react";
 import "./pages.css";
 import { Link } from "react-router-dom";
 import AboutTile from "../components/AboutTile/AboutTile";
-import ContactForm from "../components/ContactForm/ContactForm"
+import ContactForm from "../components/ContactForm/ContactForm";
+import SidebarAds from "../components/SidebarAds/SidebarAds";
 
 
 const Contact = () => {
@@ -19,6 +20,7 @@ const Contact = () => {
         </div>
         <div className="home-side">
               <AboutTile />
+              <SidebarAds />
         </div>
         </div>
     )
