@@ -21,7 +21,7 @@ const Tile = props => (
             <br></br>
         </div>
     </div>
-    <Link to={{pathname:"/juliet/blog",search:`?id=${props.id}`}}><button className="read-more-button">Read More</button></Link>
+    <Link to={{pathname:"/blog",search:`?id=${props.id}`}}><button className="read-more-button">Read More</button></Link>
     </div>
 )
 
