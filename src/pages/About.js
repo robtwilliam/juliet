@@ -2,7 +2,6 @@ import React from "react";
 import "./pages.css";
 import { Link } from "react-router-dom";
 import AboutTile from "../components/AboutTile/AboutTile";
-import SidebarAds from "../components/SidebarAds/SidebarAds";
 
 
 const About = () => {
@@ -24,7 +23,6 @@ const About = () => {
         </div>
         <div className="home-side">
               <AboutTile />
-              <SidebarAds />
         </div>
         </div>
     )

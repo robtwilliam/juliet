@@ -22,7 +22,6 @@ const Faq = () => {
         </div>
         <div className="home-side">
               <AboutTile />
-              <SidebarAds />
         </div>
         </div>
     )
